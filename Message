@@ -1,4 +1,9 @@
-{
-"SendMessage":7,"
-MyMessage":"Servidor VIP 2 entrará em manutenção. \n Utilize o Servidor VIP 1 até o retorno do VIP 2"
-}
+{"SendMessage":7,"
+"23 de jan de 2021 12:17:52",
+"Method":"dialog",
+"Title":"OLA",
+"MyMessage":"bom dia ",
+"From":"ok",
+"EnableURL":"true",
+"Button":"ok",
+"URL":"https:\/\/appspersonalizados.online\/vip"}
