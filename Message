@@ -1,4 +1,5 @@
-{"SendMessage":7,"
+{
+"SendMessage":1,"
 "23 de jan de 2021 12:17:52",
 "Method":"dialog",
 "Title":"OLA",
@@ -6,4 +7,5 @@
 "From":"ok",
 "EnableURL":"true",
 "Button":"ok",
-"URL":"https:\/\/appspersonalizados.online\/vip"}
+"URL":"https:\/\/appspersonalizados.online\/vip"
+}
